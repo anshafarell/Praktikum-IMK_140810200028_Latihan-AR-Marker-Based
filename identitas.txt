@@ -1,0 +1,4 @@
+Nama    : Ananda Shaquille Farell
+NPM     : 140810200028
+MK      : Praktikum IMK
+Hal     : Latihan AR Marker-Based
